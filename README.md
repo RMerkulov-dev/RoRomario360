@@ -8,5 +8,4 @@
 
 ### Follow me
 
-![LinkedIn](https://img.shields.io/badge/-linkedIn-090909?
-style=for-the-badge&logo=appveyor)
+![LinkedIn](https://img.shields.io/badge/-linkedIn-090909?style=for-the-badge&logo=appveyor)
