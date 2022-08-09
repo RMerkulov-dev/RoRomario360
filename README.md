@@ -2,6 +2,7 @@
 
 ## I'm a junior front-end developer
 
-My skills
+### My skills
+
 ![Flutter](https://img.shields.io/badge/-Flutter-090909??
 style=for-the-badge&logo=html&logoColor=34ebd8
