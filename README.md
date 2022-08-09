@@ -5,4 +5,4 @@
 ### My skills
 
 ![Flutter](https://img.shields.io/badge/-HTML-090909
-?style=for-the-badge&logo=appveyor
+?style=for-the-badge&logo=appveyor)
