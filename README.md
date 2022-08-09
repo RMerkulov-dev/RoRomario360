@@ -8,5 +8,5 @@
 
 ### Follow me
 
-![LinkedIn](https://img.shields.io/badge/-YouTube-090909?
+![LinkedIn](https://img.shields.io/badge/-linkedIn-090909?
 style=for-the-badge&logo=linkedin&logoColor=007BB6)
