@@ -4,7 +4,6 @@
 
 ### Contacts
 
-- 💻 Front-end developer
 - 📌 Odessa, Ukraine
 - 📧 fotoromario@gmail.com
 - 📞 067 482 58 41
