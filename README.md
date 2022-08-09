@@ -21,3 +21,9 @@
 ### My resume:
 
 https://3c5.com/9tUy1
+
+### Analytics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RoRomario360&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoRomario360&layout=compact)
