@@ -2,7 +2,7 @@
 
 ## Hi there!
 
-### Contacts:
+### Contacts
 
 ![email](https://img.shields.io/badge/-fotoromario@gmail.com-090909?style=for-the-badge&logo=email&logoColor=007BB6)
 
