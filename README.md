@@ -4,7 +4,7 @@
 
 ### Contacts:
 
-![tel](https://img.shields.io/badge/<mail>-<fotoromario@gmail.com>-<COLOR>)
+![email](https://img.shields.io/badge/-linkedIn-090909?style=for-the-badge&logo=email&logoColor=007BB6)
 
 ### My skills
 
