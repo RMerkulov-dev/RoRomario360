@@ -8,7 +8,7 @@
 - 📧 fotoromario@gmail.com
 - 📞 067 482 58 41
 
-### My resume:
+### My resume
 
 https://3c5.com/9tUy1
 
