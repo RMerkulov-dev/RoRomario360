@@ -17,4 +17,4 @@
 
 ### My resume:
 
-![Header](https://drive.google.com/file/d/1ZjtAg5HhX2p4XCOAcU0hfdOzKN7c5mtx/view?usp=sharing)
+[![CV](https://img.shields.io/badge/-CV-090909?style=for-the-badge&logo=CV&logoColor=007BB6)](https://drive.google.com/file/d/1ZjtAg5HhX2p4XCOAcU0hfdOzKN7c5mtx/view?usp=sharing)
