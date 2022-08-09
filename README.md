@@ -8,4 +8,4 @@
 
 ### Follow me
 
-![LinkedIn](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![LinkedIn](https://img.shields.io/badge/-linkedIn-090909)
