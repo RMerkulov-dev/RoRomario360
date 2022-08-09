@@ -4,4 +4,5 @@
 
 ### My skills
 
-![Flutter](https://img.shields.io/badge/-HTML-090909)
+![Flutter](https://img.shields.io/badge/-HTML-090909
+style=for-the-badge&logo=html)
