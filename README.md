@@ -4,7 +4,7 @@
 
 ### Contacts:
 
-![tel](https://img.shields.io/badge/-telephone-<+38067-482-58-41>-<COLOR>)
+![tel](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 
 ### My skills
 
