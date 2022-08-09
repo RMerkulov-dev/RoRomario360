@@ -4,7 +4,7 @@
 
 ### Contacts:
 
-![email](https://img.shields.io/badge/-linkedIn-090909?style=for-the-badge&logo=email&logoColor=007BB6)
+![email](https://img.shields.io/badge/-email-090909?style=for-the-badge&logo=email&logoColor=007BB6)
 
 ### My skills
 
