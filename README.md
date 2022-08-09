@@ -4,4 +4,4 @@
 
 ### My skills
 
-![Flutter](https://img.shields.io/badge/-HTML-090909)
+![Flutter](https://github.com/RoRomario360/RoRomario360/blob/main/assets/skills.jpg)
