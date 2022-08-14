@@ -10,7 +10,7 @@
 
 ### My resume
 
-https://3c5.com/9tUy1
+https://drive.google.com/file/d/1ZjtAg5HhX2p4XCOAcU0hfdOzKN7c5mtx/view?usp=sharing
 
 ### My skills
 
