@@ -10,7 +10,7 @@
 
 ### My resume
 
-https://drive.google.com/file/d/1ZjtAg5HhX2p4XCOAcU0hfdOzKN7c5mtx/view?usp=sharing
+https://resume-roman-merkulov.netlify.app/
 
 ### My skills
 
