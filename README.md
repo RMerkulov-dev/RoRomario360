@@ -2,8 +2,6 @@
 
 ### Hey there 👋
 
-<img align="left" alt="javascript" width="25px" src="https://github.com/RoRomario360/RoRomario360/blob/main/assets/axios.png" />
-
 ### Contacts
 
 - 📌 Odessa, Ukraine
