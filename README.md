@@ -14,7 +14,9 @@ https://resume-roman-merkulov.netlify.app/
 
 ### My skills
 
-![Flutter](https://github.com/RoRomario360/RoRomario360/blob/main/assets/skills.jpg)
+![Flutter](https://github.com/RoRomario360/RoRomario360/blob/main/assets/cover-2.jpg
+
+<!-- ![Flutter](https://github.com/RoRomario360/RoRomario360/blob/main/assets/skills.jpg) -->
 
 ### Follow me
 
