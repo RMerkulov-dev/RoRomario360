@@ -10,7 +10,7 @@
 
 ### My resume
 
-https://resume-roman-merkulov.netlify.app/
+https://roman-merkulov-resume-2.netlify.app/
 
 ### My skills
 
